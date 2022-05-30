@@ -1,1 +1,1 @@
-# Facebook-Authentication-Node.js-App
+# Sample Facebook Authentication App
